@@ -1,2 +1,3 @@
 # Artificial-Intelligence-Ntua
-Assignements for Artificial Intelligence Ntua 2021-2022
+Assignments for Artificial Intelligence Ntua 2021-2022
+
